@@ -21,3 +21,7 @@ const vowelsAndConsonants=(s)=>{
     }
 
 }
+
+//english alphabets
+s="abcdefghijklmnopqrstuvwxyz";
+vowelsAndConsonants(s);
